@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true&line_height=27&count_private=true" alt="czy GitHub Stats" />
 </a>
 
-我叫陈政羽，Apache Flink 中文社区志愿者，目前在广州某游戏公司担任大数据开发工程师，欢迎多多交流👏🏻和关注我⭐️
+我叫陈政羽，Apache Flink 中文社区志愿者，欢迎多多交流👏🏻和关注我⭐️
 
 ###  🔧 常用工具和技能
 
@@ -32,5 +32,6 @@ CSDN：[https://blog.csdn.net/qq_30438573](https://blog.csdn.net/qq_30438573)
 📫 Email : jam_gzczy@aliyun.com
 
 公众号：Java大咖说
+(无广告)
 
 ![bigdata_talk](./img/bigdata_talk.jpg)
