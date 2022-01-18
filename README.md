@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true&line_height=27&count_private=true" alt="czy GitHub Stats" />
 </a>
 
-Jam，Apache Flink 中文社区志愿者，开源社翻译组-组织成员，欢迎多多交流👏🏻和关注我⭐️，主要开发方向为大数据和JavaWeb相关
+Jam，Apache Flink 中文社区志愿者，欢迎多多交流👏🏻和关注我⭐️，主要开发方向为大数据和JavaWeb相关
 
 ###  🔧 常用工具和技能
 
