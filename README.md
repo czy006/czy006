@@ -1,14 +1,21 @@
 ### 欢迎关注  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a href="https://github.com/czy006">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czy006&hide=css&langs_count=3" />
-</a>
 
-<a href="https://github.com/czy006">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true&line_height=27&count_private=true" alt="czy GitHub Stats" />
-</a>
+|Base Info|Dashboard Data|
+|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| __Hi, I am ConradJam! 👋__<br/><br/>1. 🔭 I’m currently working on XiaMeng, China<br/>2. 🌱 I’m currently learning Flink, Java<br/>3. 📫 How to reach me: jam_gzczy@aliyun.com<br/>4. 💬 Leave me a word : https://github.com/czy006 | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) |
 
-Jam，Apache Flink 中文社区志愿者，欢迎多多交流👏🏻和关注我⭐️，主要开发方向为大数据和JavaWeb相关
+
+<div align=center><b>Here is a mini program for discount. You can scan it by wechat for detail.</b></div>
+
+
+<p align="center">
+  <img src="./img/bigdata_talk.jpg" />
+</p>
+
+
+<p>ConradJam，Apache Flink 中文社区志愿者，专注于Flink计算引擎相关开发与实践。欢迎多多交流👏🏻和关注我⭐️ 喜欢我的内容记得给个小星星和Fork</p>
+
 
 ###  🔧 常用工具和技能
 
@@ -21,17 +28,9 @@ Jam，Apache Flink 中文社区志愿者，欢迎多多交流👏🏻和关注�
 
 ### MyBlog
 
-CSDN：[https://blog.csdn.net/qq_30438573](https://blog.csdn.net/qq_30438573)
-
 阿里云开发者社区：[https://developer.aliyun.com/profile/nwcroxcgl3cc2](https://developer.aliyun.com/profile/nwcroxcgl3cc2)
+
+CSDN：[https://blog.csdn.net/qq_30438573](https://blog.csdn.net/qq_30438573)
 
 腾讯云开发者社区：[https://cloud.tencent.com/developer/user/1188124](https://cloud.tencent.com/developer/user/1188124)
 
-### Content
-
-📫 Email : jam_gzczy@aliyun.com
-
-公众号：Java大咖说
-(无广告)
-
-![bigdata_talk](./img/bigdata_talk.jpg)
