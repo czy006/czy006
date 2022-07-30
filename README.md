@@ -2,19 +2,17 @@
 
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m currently working on XiaMeng, China<br/>2. 🌱 I’m currently learning Flink, Java<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/>4. 💬 Leave me a word : https://github.com/czy006 | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) |
+| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m currently working on XiaMeng, China<br/>2. 🌱 I’m currently learning Flink, Java<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/>4. 💬 Leave me a word : https://github.com/czy006 | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) | 
 
 
-<div align=center><b>Here is a mini program for discount. You can scan it by wechat for detail.</b></div>
-
-
+<div align=center>
+  <b>Here is a mini program for discount. You can scan it by wechat for detail.</b>
 <p align="center">
   <img src="./img/bigdata_talk.jpg" />
 </p>
+</div> 
 
-
-<p>ConradJam，Apache Flink 中文社区志愿者</p>
-<p>专注于Flink计算引擎相关开发与实践。欢迎多多交流👏🏻和关注我⭐️ 喜欢我的内容记得给个小星星和Fork</p>
+<p>Focus on the development and practice of Flink Computing Engine. Welcome to communicate more 👏🏻 and follow me ⭐️ If you like my content, remember to give a little star and Fork</p>
 
 
 ###  🔧 常用工具和技能
