@@ -2,7 +2,7 @@
 
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m currently working on XiaMeng, China<br/>2. 💪 I have rich experience in big data for games and am proficient in data platform or pipeline build<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/>4. 💬 Leave me my Blog forward my open source store: https://czy006.github.io | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) |
+| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m currently working on GuangZhou, China<br/>2. 💪 I have rich experience in big data for games and am proficient in data platform or pipeline build<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/>4. 💬 Leave me my Blog forward my open source store: https://czy006.github.io | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) |
 
 <div align=center>
   <b>Here is a mini program for discount. You can scan it by wechat for detail.</b>
@@ -11,7 +11,7 @@
 </p>
 </div> 
 
-<p>Focus on the development and practice of Flink Computing Engine. Welcome to communicate more 👏🏻 and follow me ⭐️ If you like my content, remember to give a little star and Fork</p>
+<p>Welcome to discuss open source technology and open source governance related topics with me. Currently I am helping open source projects to be incubated into the Apache Foundation.</p>
 
 
 ###  🔧 常用工具和技能
