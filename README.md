@@ -8,7 +8,7 @@
   <p>Here is a mini program for discount. You can scan it by wechat for detail.</p>
 <div style="display: flex; justify-content: space-between; margin-left: 5px; margin-right: 5px;">
   <img src="./img/bigdata_talk.jpg" height="344" width="344" alt="公众号"/>
-  <img src="./img/coffee.jpg" height="344" width="344" alt="coffee"/>
+  <img src="./img/coffee.jpg" height="314" width="314" alt="coffee"/>
 </div>
 </div> 
 
