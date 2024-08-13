@@ -1,21 +1,22 @@
 ### Welcome Flow Me To Share Your Mind 👋
 
-|Base Info|Dashboard Data|
-|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m currently working on GuangZhou, China<br/>2. 💪 I have rich experience in big data for games and am proficient in data platform or pipeline build<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/>4. 💬 Leave me my Blog forward my open source store: https://czy006.github.io | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) |
+| Base Info                                                                                                                                                                                                                                                                                                                                             | Dashboard Data                                                                                                                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m currently working on [LaLaMove](https://www.lalamove.com/)<br/>2. 💪 I have rich experience in big data for games and am proficient in data platform or pipeline build<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/>4. 💬 Leave me my Blog forward my open source store: https://czy006.github.io | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) |
 
-<div align=center>
-  <p>Here is a mini program for discount. You can scan it by wechat for detail.</p>
-<div style="display: flex; justify-content: space-between; margin-left: 5px; margin-right: 5px;">
-  <img src="./img/bigdata_talk.jpg" height="344" width="344" alt="公众号"/>
-  <img src="./img/coffee.jpg" height="344" width="344" alt="coffee"/>
-</div>
-</div> 
 
 <p>Welcome to discuss open source technology and open source governance related topics with me. Currently I am helping open source projects to be incubated into the Apache Foundation.</p>
 
+- 🤔 I’m dev projects:
+  - [Apache Amoro (incubating)](https://amoro.apache.org) (From 2023-10)
+  - [Apache Flink](https://flink.apache.org) (From 2017-10)
 
-###  🔧 常用工具和技能
+- 📑 I’m following recently projects:
+  - [Apache Iceberg](https://iceberg.apache.org)
+  - [Apache Polaris](https://github.com/polaris-catalog/polaris)
+
+
+###  🔧  Languages and Tools:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
