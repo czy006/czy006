@@ -6,9 +6,10 @@
 
 
 <p>Welcome to discuss open source technology and open source governance related topics with me. Currently I am helping open source projects to be incubated into the Apache Foundation.</p>
+<p>At the same time, I am looking for remote work with a time zone located in GTM+8 or GTM+7.</p>
 
 - 🤔 I’m dev projects:
-  - [Apache Amoro (incubating)](https://amoro.apache.org) (From 2023-10)
+  - [Apache Amoro (incubating)](https://amoro.apache.org) Apache Amoro PPMC (From 2023-10)
   - [Apache Flink](https://flink.apache.org) (From 2017-10)
 
 - 📑 I’m following recently projects:
@@ -28,9 +29,8 @@
 ### MyBlog
 
 [Github-Blog](https://czy006.github.io)
+｜[Medium](https://medium.com/@jam.gzczy)
 ｜[FlinkClub](https://github.com/czy006/FlinkClub) 
-｜[Flink中文社区](https://flink-learning.org.cn/author/910723ec13d7b3d103fdc6bbfa8ea5fd)
-｜[阿里云开发者社区](https://developer.aliyun.com/profile/nwcroxcgl3cc2)
-｜[CSDN](https://blog.csdn.net/qq_30438573)
-｜[腾讯云开发者社区](https://cloud.tencent.com/developer/user/1188124)
+｜[Flink China Community](https://flink-learning.org.cn/author/910723ec13d7b3d103fdc6bbfa8ea5fd)
+
 
