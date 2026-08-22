@@ -1,8 +1,8 @@
 ### Welcome Flow Me To Share Your Mind 👋
 
-| Base Info                                                                                                                                                                                                                                                                                                                                             | Dashboard Data                                                                                                                                        |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m Currently working for a Singaporean company<br/>2. 💪 I have rich experience in big data for games and am proficient in data platform or pipeline build<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/>4. 💬 Leave me my Blog forward my open source store: https://czy006.github.io | [![czy006's github stats](https://github-readme-stats.vercel.app/api?username=czy006&show_icons=true)](https://github.com/czy006/github-readme-stats) |
+| Base Info|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __Hi, I am ConradJam! 😊__<br/><br/>1. 🔭 I’m Currently working for a Singaporean company<br/>2. 💪 I have rich experience in big data for games and am proficient in data platform or pipeline build<br/>3. 📫 How to reach me: jam.gzczy@gmail.com<br/> |
 
 
 <p>Welcome to discuss open source technology and open source governance related topics with me. Currently I am helping open source projects to be incubated into the Apache Foundation.</p>
@@ -28,9 +28,6 @@
 
 ### MyBlog
 
-[Github-Blog](https://czy006.github.io)
 ｜[Medium](https://medium.com/@jam.gzczy)
-｜[FlinkClub](https://github.com/czy006/FlinkClub) 
-｜[Flink China Community](https://flink-learning.org.cn/author/910723ec13d7b3d103fdc6bbfa8ea5fd)
 
 
